@@ -1,1 +1,2 @@
 # odin-landing-page
+This project will build a basic landing page for a website using HTML and CSS. In addition to using HTML and CSS, Git will be used to make commits and record changes as the project grows.
